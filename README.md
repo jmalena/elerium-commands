@@ -1,5 +1,5 @@
 # Commands [![Build Status](https://travis-ci.org/Elerium/Commands.png)](https://travis-ci.org/jmalena/Commands) #
-Command line arguments parsing tool for JavaScript.
+Command line parsing tool for Node.js.
 
 ## Usage ##
 
